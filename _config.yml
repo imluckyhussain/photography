@@ -23,3 +23,5 @@ social_urls:
   dribbble: "https://dribbble.com/imhussain"
   linkedin: "https://in.linkedin.com/in/mubaraque"
   github: "https://www.github.com/imluckyhussain"
+
+theme: jekyll-theme-cayman
