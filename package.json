@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/imluckyhussain/photography.git"
   },
   "keywords": [
     "photography",
@@ -19,10 +19,10 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "Mubaraque Hussain",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/imluckyhussain/photography/issues"
   },
   "homepage": "https://github.com/ramswaroop/photography#readme",
   "devDependencies": {
