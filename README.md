@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
+<img src="https://raw.githubusercontent.com/imluckyhussain/photography/master/images/github-photography.jpg" alt="demo"/>
 
 # Photography
 A jekyll website for photographers
